@@ -220,4 +220,11 @@ In addition to adding integration tests and unit tests, rrweb also provides a RE
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://requestly.io" target="_blank">
+        <img style="padding: 8px" alt="Intercept, Modify, Record & Replay HTTP Requests." width="195px" src="https://github.com/wrongsahil/rrweb/assets/16779465/4ae2f443-c219-485b-8894-1d33ef3d5d90">
+      </a>
+    </td>
+  </tr>
 </table>
